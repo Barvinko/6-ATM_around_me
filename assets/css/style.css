@@ -1,0 +1,13 @@
+
+    body {
+        min-height: 100vh;
+        margin: 0;
+        display: grid;
+        place-items: center;
+    }
+
+    img{
+        box-shadow: 0px 0px 15px gray, 0px 0px 5px rgb(105, 73, 105);
+        border-radius: 50%;
+        border: 5px solid white
+    }
